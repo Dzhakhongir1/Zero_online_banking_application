@@ -9,8 +9,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         plugin = {
                 "html:target/cucumber-report.html",
-                "json:target/cucumber.json",//jason stands for java scrip object notation
-                "rerun:target/rerun.txt"
+
         },
         features = "src/test/resources/features",
         glue = "com/zerobank/stepdefinition",
