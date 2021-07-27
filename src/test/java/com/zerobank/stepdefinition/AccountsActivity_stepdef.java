@@ -60,10 +60,4 @@ public class AccountsActivity_stepdef {
 
 
 
-
-
-
-
-
-
 }

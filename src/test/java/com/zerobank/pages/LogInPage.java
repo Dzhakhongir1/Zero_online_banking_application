@@ -25,6 +25,9 @@ public class LogInPage {
     @FindBy(xpath = "//a[@id='proceed-link']")
     public WebElement unsafePressing;
 
+    @FindBy(xpath = "//div[@class='alert alert-error']")
+    public WebElement failedCredentials;
+
     public void logIn(){
         username.sendKeys("username");
         password.sendKeys("password");
