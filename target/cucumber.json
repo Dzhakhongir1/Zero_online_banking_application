@@ -3,22 +3,15 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-07-27T00:35:35.012Z",
-        "line": 4,
-        "name": "Savings    account    redirect",
+        "start_timestamp": "2021-07-28T19:11:03.325Z",
+        "line": 3,
+        "name": "Account activity test",
         "description": "",
-        "id": "navigating-to-specific-accounts-in-accounts-activity;savings----account----redirect",
+        "id": "account-summary-page-should-have-following-aspects;account-activity-test",
         "after": [
           {
-            "embeddings": [
-              {
-                "data": "iVBORw0KGgoAAAANSUhEUgAABVYAAAJlCAYAAAAxcKmfAAAAAXNSR0IArs4c6QAAEhZJREFUeJzt2MENwCAQwLDS/Xc+ViAvhGRPkHfWzMwHAAAAAMCx/3YAAAAAAMBrjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgMhYBQAAAACIjFUAAAAAgGgDSlsIxrrMYU8AAAAASUVORK5CYII\u003d",
-                "mime_type": "image/png",
-                "name": "Savings    account    redirect"
-              }
-            ],
             "result": {
-              "duration": 114000000,
+              "duration": 5217000000,
               "status": "passed"
             },
             "match": {
@@ -31,11 +24,10 @@
         "steps": [
           {
             "result": {
-              "error_message": "io.cucumber.core.exception.CucumberException: Failed to instantiate class com.zerobank.stepdefinition.AccountsActivity_stepdef\r\n\tat io.cucumber.core.runtime.ObjectFactoryServiceLoader$DefaultJavaObjectFactory.cacheNewInstance(ObjectFactoryServiceLoader.java:149)\r\n\tat io.cucumber.core.runtime.ObjectFactoryServiceLoader$DefaultJavaObjectFactory.getInstance(ObjectFactoryServiceLoader.java:133)\r\n\tat io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)\r\n\tat io.cucumber.java.JavaStepDefinition.execute(JavaStepDefinition.java:29)\r\n\tat io.cucumber.core.runner.CoreStepDefinition.execute(CoreStepDefinition.java:66)\r\n\tat io.cucumber.core.runner.PickleStepDefinitionMatch.runStep(PickleStepDefinitionMatch.java:63)\r\n\tat io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)\r\n\tat io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)\r\n\tat io.cucumber.core.runner.TestStep.run(TestStep.java:64)\r\n\tat io.cucumber.core.runner.PickleStepTestStep.run(PickleStepTestStep.java:51)\r\n\tat io.cucumber.core.runner.TestCase.run(TestCase.java:104)\r\n\tat io.cucumber.core.runner.Runner.runPickle(Runner.java:73)\r\n\tat io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)\r\n\tat io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)\r\n\tat org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)\r\n\tat org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:413)\r\n\tat io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)\r\n\tat io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)\r\n\tat org.junit.runners.ParentRunner$4.run(ParentRunner.java:331)\r\n\tat org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:79)\r\n\tat org.junit.runners.ParentRunner.runChildren(ParentRunner.java:329)\r\n\tat org.junit.runners.ParentRunner.access$100(ParentRunner.java:66)\r\n\tat org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:293)\r\n\tat io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)\r\n\tat org.junit.runners.ParentRunner$3.evaluate(ParentRunner.java:306)\r\n\tat org.junit.runners.ParentRunner.run(ParentRunner.java:413)\r\n\tat org.junit.runner.JUnitCore.run(JUnitCore.java:137)\r\n\tat com.intellij.junit4.JUnit4IdeaTestRunner.startRunnerWithArgs(JUnit4IdeaTestRunner.java:69)\r\n\tat com.intellij.rt.junit.IdeaTestRunner$Repeater.startRunnerWithArgs(IdeaTestRunner.java:33)\r\n\tat com.intellij.rt.junit.JUnitStarter.prepareStreamsAndStart(JUnitStarter.java:221)\r\n\tat com.intellij.rt.junit.JUnitStarter.main(JUnitStarter.java:54)\r\nCaused by: java.lang.reflect.InvocationTargetException\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat io.cucumber.core.runtime.ObjectFactoryServiceLoader$DefaultJavaObjectFactory.cacheNewInstance(ObjectFactoryServiceLoader.java:141)\r\n\t... 36 more\r\nCaused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//select[@id\u003d\u0027aa_accountId\u0027]\"}\n  (Session info: chrome\u003d92.0.4515.107)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-C0TAU42\u0027, ip: \u0027192.168.0.40\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.107, chrome: {chromedriverVersion: 92.0.4515.43 (8c61b7e2989f2..., userDataDir: C:\\Users\\Jaha\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:65112}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e4aaf9ecdc209bed1d4c08e1042e3680\n*** Element info: {Using\u003dxpath, value\u003d//select[@id\u003d\u0027aa_accountId\u0027]}\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:428)\r\n\tat org.openqa.selenium.By$ByXPath.findElement(By.java:353)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)\r\n\tat org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)\r\n\tat com.sun.proxy.$Proxy16.getTagName(Unknown Source)\r\n\tat org.openqa.selenium.support.ui.Select.\u003cinit\u003e(Select.java:45)\r\n\tat com.zerobank.stepdefinition.AccountsActivity_stepdef.\u003cinit\u003e(AccountsActivity_stepdef.java:15)\r\n\t... 41 more\r\n",
-              "duration": 15180000000,
-              "status": "failed"
+              "duration": 12221000000,
+              "status": "passed"
             },
-            "line": 5,
+            "line": 4,
             "name": "the user is logged in",
             "match": {
               "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
@@ -44,9 +36,151 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 852000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "account title should be \"Zero - Account Activity\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Zero - Account Activity\"",
+                  "offset": 24
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.account_title_should_be(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 280000000,
+              "status": "passed"
             },
             "line": 6,
+            "name": "Account dropdown should have",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.account_dropdown_should_have(java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Savings"
+                ]
+              },
+              {
+                "cells": [
+                  "Checking"
+                ]
+              },
+              {
+                "cells": [
+                  "Savings"
+                ]
+              },
+              {
+                "cells": [
+                  "Loan"
+                ]
+              },
+              {
+                "cells": [
+                  "Credit Card"
+                ]
+              },
+              {
+                "cells": [
+                  "Brokerage"
+                ]
+              }
+            ],
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 101000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Transactions table should have column names",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.transactions_table_should_have_column_names(java.util.List\u003cjava.lang.String\u003e)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "Date"
+                ]
+              },
+              {
+                "cells": [
+                  "Description"
+                ]
+              },
+              {
+                "cells": [
+                  "Deposit"
+                ]
+              },
+              {
+                "cells": [
+                  "Withdrawal"
+                ]
+              }
+            ],
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Account\tsummary\tpage\tshould\thave following aspects",
+    "description": "",
+    "id": "account-summary-page-should-have-following-aspects",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/AccountActivity.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-07-28T19:11:03.311Z",
+        "line": 5,
+        "name": "Savings    account    redirect",
+        "description": "",
+        "id": "navigating-to-specific-accounts-in-accounts-activity;savings----account----redirect",
+        "after": [
+          {
+            "result": {
+              "duration": 2650000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 10413000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1132000000,
+              "status": "passed"
+            },
+            "line": 7,
             "name": "the user clicks on    Savings link on the Account Summary    page",
             "match": {
               "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_clicks_on_savings_link_on_the_account_summary_page()"
@@ -55,9 +189,10 @@
           },
           {
             "result": {
-              "status": "skipped"
+              "duration": 118000000,
+              "status": "passed"
             },
-            "line": 7,
+            "line": 8,
             "name": "the Account Activity page should be displayed",
             "match": {
               "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_account_activity_page_should_be_displayed()"
@@ -66,15 +201,342 @@
           },
           {
             "result": {
-              "duration": 1000000,
-              "status": "skipped"
+              "duration": 377000000,
+              "status": "passed"
             },
-            "line": 8,
+            "line": 9,
             "name": "Account drop down should have \"Savings\" selected",
             "match": {
               "arguments": [
                 {
                   "val": "\"Savings\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.account_drop_down_should_have_selected(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          },
+          {
+            "name": "@1"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-28T19:11:18.025Z",
+        "line": 11,
+        "name": "Brokerage account redirect",
+        "description": "",
+        "id": "navigating-to-specific-accounts-in-accounts-activity;brokerage-account-redirect",
+        "after": [
+          {
+            "result": {
+              "duration": 3985000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7650000000,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 658000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "the user clicks on    Brokerage link on the Account Summary page",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_clicks_on_brokerage_link_on_the_account_summary_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 84000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "the Account Activity page should be displayed",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_account_activity_page_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 373000000,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "Account drop down should have \"Brokerage\" selected",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Brokerage\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.account_drop_down_should_have_selected(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-28T19:11:30.815Z",
+        "line": 17,
+        "name": "Checking account redirect",
+        "description": "",
+        "id": "navigating-to-specific-accounts-in-accounts-activity;checking-account-redirect",
+        "after": [
+          {
+            "result": {
+              "duration": 822000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5076000000,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 507000000,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "the user clicks on    Checking link on the Account Summary page",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_clicks_on_checking_link_on_the_account_summary_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 91000000,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "the Account Activity page should be displayed",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_account_activity_page_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 136000000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "Account drop down should have \"Checking\" selected",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Checking\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.account_drop_down_should_have_selected(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-28T19:11:37.451Z",
+        "line": 23,
+        "name": "Credit Card account redirect",
+        "description": "",
+        "id": "navigating-to-specific-accounts-in-accounts-activity;credit-card-account-redirect",
+        "after": [
+          {
+            "result": {
+              "duration": 784000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4224000000,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 500000000,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "the user clicks on Credit card    link on the Account    Summary    page",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_clicks_on_credit_card_link_on_the_account_summary_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 78000000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "the Account Activity page should be displayed",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_account_activity_page_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 143000000,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "Account drop down should have \"Credit Card\" selected",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Credit Card\"",
+                  "offset": 30
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.account_drop_down_should_have_selected(java.lang.String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-28T19:11:43.188Z",
+        "line": 29,
+        "name": "Loan account redirect",
+        "description": "",
+        "id": "navigating-to-specific-accounts-in-accounts-activity;loan-account-redirect",
+        "after": [
+          {
+            "result": {
+              "duration": 829000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4057000000,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 520000000,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "the user clicks on Loan link on the Account Summary page",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_clicks_on_loan_link_on_the_account_summary_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 69000000,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "the Account Activity page should be displayed",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_account_activity_page_should_be_displayed()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 181000000,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "Account drop down should have \"Loan\" selected",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Loan\"",
                   "offset": 30
                 }
               ],
@@ -95,6 +557,441 @@
     "id": "navigating-to-specific-accounts-in-accounts-activity",
     "keyword": "Feature",
     "uri": "file:src/test/resources/features/AccountActivityNavigation.feature",
+    "tags": [
+      {
+        "name": "@wip",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-07-28T19:11:03.319Z",
+        "line": 3,
+        "name": "summary\tpage\tshould\thave",
+        "description": "",
+        "id": "account-summary-page-should-have-the-title;summary-page-should-have",
+        "after": [
+          {
+            "result": {
+              "duration": 14530000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12369000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 28000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the title should be \"Zero - Account Summary\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Zero - Account Summary\"",
+                  "offset": 20
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountSumary_stefDef.the_title_should_be(java.lang.String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 57000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user should see \"Cash Accounts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Cash Accounts\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountSumary_stefDef.user_should_see(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 59000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user should see \"Investment Accounts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Investment Accounts\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountSumary_stefDef.user_should_see(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 55000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user should see \"Credit Accounts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Credit Accounts\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountSumary_stefDef.user_should_see(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 104000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should see \"Loan Accounts\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Loan Accounts\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.AccountSumary_stefDef.user_should_see(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@boss"
+          }
+        ]
+      }
+    ],
+    "name": "Account\tsummary\tpage\tshould\thave\tthe\ttitle",
+    "description": "",
+    "id": "account-summary-page-should-have-the-title",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/AccountSummary.feature",
     "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-07-28T19:11:03.329Z",
+        "line": 4,
+        "name": "when user logs in with wrong credentials should not log in",
+        "description": "",
+        "id": "user-with-wrong-credentials-should-not-be-able-to-log-in;when-user-logs-in-with-wrong-credentials-should-not-log-in",
+        "after": [
+          {
+            "result": {
+              "duration": 3157000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 9424000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Users\twith wrong username\tor wrong password should not be\table to\tlogin",
+            "match": {
+              "location": "com.zerobank.stepdefinition.LogIn_stepDef.users_with_wrong_username_or_wrong_password_should_not_be_able_to_login()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 290000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "error message \"Login and/or password are wrong.\" are\twrong should be displayed.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login and/or password are wrong.\"",
+                  "offset": 14
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.LogIn_stepDef.error_message_are_wrong_should_be_displayed(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-28T19:11:16.244Z",
+        "line": 8,
+        "name": "when user logs in with wrong credentials should not log in",
+        "description": "",
+        "id": "user-with-wrong-credentials-should-not-be-able-to-log-in;when-user-logs-in-with-wrong-credentials-should-not-log-in",
+        "after": [
+          {
+            "result": {
+              "duration": 5090000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4048000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "Users with blank username or password should also not be able to login",
+            "match": {
+              "location": "com.zerobank.stepdefinition.LogIn_stepDef.users_with_blank_username_or_password_should_also_not_be_able_to_login()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 93000000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "error message \"Login and/or password are wrong.\" are\twrong should be displayed.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Login and/or password are wrong.\"",
+                  "offset": 14
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.LogIn_stepDef.error_message_are_wrong_should_be_displayed(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2021-07-28T19:11:25.482Z",
+        "line": 12,
+        "name": "passed scenario",
+        "description": "",
+        "id": "user-with-wrong-credentials-should-not-be-able-to-log-in;passed-scenario",
+        "after": [
+          {
+            "result": {
+              "duration": 2717000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5003000000,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 135000000,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "\"Account Summary\" page should be\tdisplayed.",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Account Summary\"",
+                  "offset": 0
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.LogIn_stepDef.page_should_be_displayed(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "User with wrong credentials should not be able to log in",
+    "description": "",
+    "id": "user-with-wrong-credentials-should-not-be-able-to-log-in",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Login.feature",
+    "tags": []
+  },
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2021-07-28T19:11:22.060Z",
+        "line": 4,
+        "name": "User should be able to submit info successful",
+        "description": "",
+        "id": "pay-bills-check-functionality;user-should-be-able-to-submit-info-successful",
+        "after": [
+          {
+            "result": {
+              "duration": 3090000000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "com.zerobank.stepdefinition.Hooks.tearDrownScenario(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4615000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user is logged in",
+            "match": {
+              "location": "com.zerobank.stepdefinition.AccountsActivity_stepdef.the_user_is_logged_in()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1074000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "clicks pay Bills tab",
+            "match": {
+              "location": "com.zerobank.stepdefinition.PayBills_stepDef.clicksPayBillsTab()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 74000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "title should be \"Zero - Pay Bills\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Zero - Pay Bills\"",
+                  "offset": 16
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.PayBills_stepDef.title_should_be(java.lang.String)"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1013000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "fills out the form",
+            "match": {
+              "location": "com.zerobank.stepdefinition.PayBills_stepDef.fills_out_the_form()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105000000,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user should get Message Displayed \"The payment was successfully submitted.\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"The payment was successfully submitted.\"",
+                  "offset": 34
+                }
+              ],
+              "location": "com.zerobank.stepdefinition.PayBills_stepDef.user_should_get_message_displayed(java.lang.String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip1"
+          }
+        ]
+      }
+    ],
+    "name": "Pay bills check functionality",
+    "description": "",
+    "id": "pay-bills-check-functionality",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/PayBills.feature",
+    "tags": [
+      {
+        "name": "@wip1",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
   }
 ]
