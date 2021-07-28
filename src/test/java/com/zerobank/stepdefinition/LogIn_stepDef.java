@@ -1,6 +1,7 @@
 package com.zerobank.stepdefinition;
 
 import com.zerobank.pages.AccountSummaryPAges;
+import com.zerobank.pages.BasePage;
 import com.zerobank.pages.LogInPage;
 import com.zerobank.utilities.Driver;
 import io.cucumber.java.en.Given;
@@ -10,6 +11,9 @@ import org.junit.Assert;
 public class LogIn_stepDef {
     LogInPage  page = new LogInPage();
     AccountSummaryPAges acs= new AccountSummaryPAges();
+
+
+
     @Given("Users	with wrong username	or wrong password should not be	able to	login")
     public void users_with_wrong_username_or_wrong_password_should_not_be_able_to_login() {
         String url = "http://zero.webappsecurity.com/login.html";

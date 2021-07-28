@@ -1,17 +1,43 @@
 package com.zerobank.stepdefinition;
 
+import com.zerobank.pages.AccountActivityPages;
 import com.zerobank.pages.AccountSummaryPAges;
 import com.zerobank.pages.LogInPage;
+import com.zerobank.utilities.BrowserUtils;
 import com.zerobank.utilities.Driver;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;
 import org.junit.Assert;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.Select;
+
+import java.util.List;
 
 public class AccountsActivity_stepdef {
     LogInPage page = new LogInPage();
     AccountSummaryPAges acs= new AccountSummaryPAges();
+    AccountActivityPages aa = new AccountActivityPages();
+
+    @Given("account title should be {string}")
+    public void account_title_should_be(String string) {
+        aa.accountActivityTAb.click();
+        BrowserUtils.assertTitle(string);
+    }
+    @Given("Account dropdown should have")
+    public void account_dropdown_should_have(List<String> dropDownExpectedOptions) {
+        Select select = new Select(aa.dropDown);
+        List <String>dropdownActual = BrowserUtils.getElementsText(select.getOptions());
+        Assert.assertEquals(dropdownActual,dropDownExpectedOptions);
+
+    }
+    @Then("Transactions table should have column names")
+    public void transactions_table_should_have_column_names(List<String> dataTableExpectedOptions) {
+
+        List <String>dataTableActual = BrowserUtils.getElementsText(aa.tablesVerification);
+        Assert.assertEquals(dataTableExpectedOptions,dataTableActual);
+    }
+
 
     @Given("the user is logged in")
     public void the_user_is_logged_in() {

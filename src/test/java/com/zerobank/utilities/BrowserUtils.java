@@ -26,6 +26,15 @@ public class BrowserUtils {
             System.out.println("Something happened ");
         }
     }
+    public static void assertTitle(String expectedTitle){
+
+        WebDriverWait wait = new WebDriverWait(Driver.getDriver(), 10);
+        wait.until(ExpectedConditions.titleIs(expectedTitle));
+
+        String actualTitle = Driver.getDriver().getTitle();
+
+        Assert.assertEquals(expectedTitle, actualTitle);
+    }
     public static void switchToWindow(String targetTitle) {
         String origin = Driver.getDriver().getWindowHandle();
         for (String handle : Driver.getDriver().getWindowHandles()) {

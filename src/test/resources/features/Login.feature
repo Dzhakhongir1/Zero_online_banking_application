@@ -1,4 +1,4 @@
-@wip1
+
 Feature: User with wrong credentials should not be able to log in
 
   Scenario:when user logs in with wrong credentials should not log in
