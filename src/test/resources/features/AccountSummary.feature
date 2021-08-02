@@ -1,5 +1,4 @@
 Feature: Account	summary	page	should	have	the	title
-  @boss
   Scenario: summary	page	should	have
   Given the user is logged in
   And the title should be "Zero - Account Summary"

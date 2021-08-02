@@ -1,4 +1,3 @@
-@wip1
 Feature: Pay bills check functionality
 
   Scenario: User should be able to submit info successful
